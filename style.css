@@ -1,0 +1,20 @@
+.banner{background-image:url(images/banner/banner3.png);
+height: 800px; width: auto;color: aliceblue;}
+.banner-header{margin-left: 845px;padding-top: 315px;
+height: 228px;width: 525px;}
+.banner-pera{margin-left: 800px;text-align:center;}
+.banner-btn{margin-left: 851px; }
+.mid-head{margin left: 600px;}
+.mid{ background-image: url(images/person.png);background-position: center;background-repeat: no-repeat;margin: 40px 40px 40px; height: 900px;
+    
+}
+.mid-head{padding-left: 800px;padding-top: 300px;}
+.mid-pera{padding-left: 800px;}
+.center{text-align: center;}
+.table{margin-left: auto;margin-right: auto;}
+td{padding-left: 30px;}
+footer{height: 300px;width: 1140px; margin-left:auto;margin-right: auto;
+background-image: url(images/watch.png);color:white;
+}
+.boga{padding-left: 30px;padding-top: 79px;}
+.bogar-btn{border-radius: 8px;}
